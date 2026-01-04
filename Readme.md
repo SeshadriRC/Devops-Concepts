@@ -16,3 +16,4 @@
 ### Practicals
 
 - [NACL-and-SG](https://github.com/SeshadriRC/Devops-Learnings/blob/main/My-Learnings/Networking/Security-Group-and-NACL.md)
+- [VPC-handson](https://github.com/SeshadriRC/Devops-Learnings/blob/main/My-Learnings/Networking/AWS-VPC-handson.md)
