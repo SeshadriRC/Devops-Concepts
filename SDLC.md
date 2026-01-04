@@ -57,4 +57,12 @@ In this final stage, the tested application is promoted to the production server
 The video also briefly mentions the Agile Model (23:32-23:53). It is described as a project management methodology where organizations follow all the SDLC phases but in short sprints. This means that instead of waiting for all planning, defining, or design documents to be completed, small chunks of work are processed through the entire cycle, allowing for continuous iteration and delivery.
 
 
+A DevOps engineer's primary role in the building, testing, and deployment phases is to automate these processes (20:37, 21:07). By automating, the DevOps engineer aims to:
 
+**Fasten the process:** Deliver code more quickly (21:35-21:37).
+
+**Improve efficiency:** Automation directly leads to a more efficient product delivery (21:44-21:51).
+
+**Reduce manual intervention:** Ensure these phases are followed without manual steps, which saves time and reduces errors (23:02-23:04).
+
+Essentially, a DevOps engineer automates the flow from code development to deployment, making the entire software delivery pipeline efficient and continuous (22:54-22:58).
