@@ -10,7 +10,7 @@
 [Abishek-Roadmap](https://akvanewsletter.substack.com/p/want-to-become-a-devops-engineer)
 
 - [Networking](https://github.com/SeshadriRC/Devops-Learnings/tree/main/My-Learnings/Networking)
-- [Fundamentals of Devops]
+- [Fundamentals of Devops](https://github.com/SeshadriRC/Devops-Concepts/blob/main/Fundamentals-of-devops.md)
 
 
 ## AWS
