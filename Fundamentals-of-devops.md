@@ -8,6 +8,7 @@
 
 <img width="1036" height="644" alt="image" src="https://github.com/user-attachments/assets/2c3d5d32-ae99-4fa4-b353-1255d1d89045" />
 
+---
 **2. Why Devops**
 
 - To improve the process of application delivery
@@ -21,3 +22,24 @@ Before 10 years, in the traditional software delivery process, the following rol
 - Build and Release Engineer: Once the developer checked in their code to a centralized code repository (like SVN or CBS), the build and release engineer would deploy the application onto the server. After a tester had tested the application on a server, this engineer would then promote the application to the next level, such as a staging environment or finally to the production server (15:51-16:17).
 
 - Server Administrator: This role was responsible for creating and managing the application server (19:01-19:07) that would host the application on the newly created server.
+
+---
+**3. How to introduce as a Devops**
+
+Got it 👍 I’ll **keep the previous strong infra-focused version** and just **add a clean opening line** about your DevOps foundation—clear, professional, and not repetitive.
+
+
+
+### **Final Interview-Ready Introduction (Aligned to Infra Role)**
+
+> Hi, I’m Seshadri. I initially started my career as a DevOps Engineer and built a strong foundation with core DevOps tools and practices.
+>
+> I have around 6 years of experience and currently focus on managing and supporting infrastructure on cloud-native and containerized platforms. In my current role, all infrastructure components such as S3, RDS, RabbitMQ, and other platform services are provisioned through Kubernetes operators on OpenShift.
+>
+> My primary responsibility is to handle infrastructure-related issues during provisioning and lifecycle operations. Whenever customers face issues, I troubleshoot operator workflows, custom resources, controller logs, and underlying cloud or platform dependencies to identify and resolve the problems.
+
+
+
+
+
+---
