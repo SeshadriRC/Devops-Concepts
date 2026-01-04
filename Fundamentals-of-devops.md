@@ -32,11 +32,11 @@ Got it 👍 I’ll **keep the previous strong infra-focused version** and just *
 
 ### **Final Interview-Ready Introduction (Aligned to Infra Role)**
 
-> Hi, I’m Seshadri. I initially started my career as a DevOps Engineer and built a strong foundation with core DevOps tools and practices.
->
-> I have around 6 years of experience and currently focus on managing and supporting infrastructure on cloud-native and containerized platforms. In my current role, all infrastructure components such as S3, RDS, RabbitMQ, and other platform services are provisioned through Kubernetes operators on OpenShift.
->
-> My primary responsibility is to handle infrastructure-related issues during provisioning and lifecycle operations. Whenever customers face issues, I troubleshoot operator workflows, custom resources, controller logs, and underlying cloud or platform dependencies to identify and resolve the problems.
+> Hi, I’m Seshadri. I have around 6 years of experience as a DevOps Engineer. I initially started my career in DevOps and built a strong foundation in core DevOps tools and practices.
+
+> Currently, I focus on managing and supporting infrastructure and applications on cloud-native and containerized platforms. In my current role, all infrastructure components such as S3, RDS, RabbitMQ, and other platform services are provisioned through Kubernetes operators on OpenShift.
+
+> My primary responsibility is handling infrastructure-related issues during provisioning and lifecycle operations. Whenever customers face issues, I troubleshoot operator workflows, custom resources, controller logs, and underlying cloud or platform dependencies to identify and resolve the problems.
 
 
 
