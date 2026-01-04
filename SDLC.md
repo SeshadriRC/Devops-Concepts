@@ -1,4 +1,6 @@
 
+20:56
+
 - Assume we need to devolop a E-commerce application called **example.com**
 
 <img width="1582" height="1061" alt="image" src="https://github.com/user-attachments/assets/05a32c08-148f-461f-9325-fea37fd08642" />
