@@ -21,3 +21,15 @@
 
   - AWS installed 100 physical servers on mumbai region, each server has 100 GB RAM , 100 GB of CPU
   - If user requested for 10GB Ram, 12 CPU then aws will choose the server which has those capacity and ask the hypervisor to create a VM and provide it.
+
+
+What is a Server? A server is a computer where applications are hosted, accessible to users (7:19).
+The Problem of Inefficiency: The speaker illustrates how physical servers can be underutilized, leading to wasted resources when applications only use a small portion of the server's capacity (9:10).
+
+What is Virtualization? Virtualization addresses inefficiency by logically partitioning a single physical server into multiple virtual environments (10:56).
+
+What is a Hypervisor? A hypervisor is a software that allows the creation and management of virtual machines on a physical server (11:36). Popular hypervisors include VMware and Xen (12:50).
+
+What is a Virtual Machine (VM)? VMs are virtual environments that function as independent computer systems with their own CPU, memory, and hardware, existing only logically (13:36).
+
+How Cloud Providers Use VMs: Cloud platforms like Amazon Web Services (AWS) use hypervisors on their physical servers in data centers to provide virtual machines (called EC2 instances in AWS) to millions of users, significantly increasing resource utilization (14:47).
