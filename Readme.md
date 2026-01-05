@@ -11,6 +11,8 @@
 
 ## Devops Course
 
+### Step 1: DevOps Fundamentals & Core Tooling (25 Days)
+
 - [Networking](https://github.com/SeshadriRC/Devops-Learnings/tree/main/My-Learnings/Networking)
 - [Fundamentals of Devops](https://github.com/SeshadriRC/Devops-Concepts/blob/main/Fundamentals-of-devops.md)
 - [Improve SDLC](https://github.com/SeshadriRC/Devops-Concepts/blob/main/SDLC.md)
