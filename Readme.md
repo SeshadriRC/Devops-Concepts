@@ -17,7 +17,7 @@
 - [Networking](https://github.com/SeshadriRC/Devops-Learnings/tree/main/My-Learnings/Networking)
 - [Fundamentals of Devops](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Fundamentals-of-devops.md)
 - [Improve SDLC](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/SDLC.md)
-- [Absolute Prerequisite for Learning DevOps](https://github.com/SeshadriRC/Devops-Concepts/blob/main/Absolute%20Prerequisite%20for%20Learning%20DevOps.md)
+- [Absolute Prerequisite for Learning DevOps](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Absolute-Prerequisite-for-Learning-DevOps.md)
 
 
 
