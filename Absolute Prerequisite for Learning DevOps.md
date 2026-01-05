@@ -22,6 +22,18 @@
 
 **Technical Writer** (16:54): Technical Writers document new features and product information, ensuring users understand how to use and interact with the software.
 
+---
+The video explains that Scrum is a methodology within Agile (34:18).
+
+Agile is a broader concept that refers to a flexible approach to software development.
+
+Scrum is a framework within Agile where teams work in sprints (34:42). Sprints are typically two to three-week periods during which a specific set of activities are planned and completed (34:44-35:02).
+
+Within a Scrum team, members like developers, DevOps engineers, and QA engineers work together to complete requirements (15:42-15:58). The process involves:
+
+Sprint Planning (35:55): Where the team plans the activities for the upcoming sprint.
+Sprint Retrospective Meeting (35:06): Held at the end of a sprint to track progress and assess how much work was completed versus what was committed (35:06-35:18).
+The speaker also mentions that different companies might follow different methodologies, such as Kanban, in addition to Scrum (40:36-40:40).
 
 ---
 
@@ -44,6 +56,8 @@
 **Assignment of Tasks** (38:19): Specific stories, like "create a Kubernetes cluster," are assigned to relevant team members, such as a DevOps engineer (39:19).
 
 **Status Updates** (40:51): Team members are responsible for updating the status of their tasks (e.g., "to do," "in progress," "in review," "done") and adding comments on their progress (40:59).
+
+---
 
 - explained about roles in the organization
 - did jira installations, created organization, epic 
