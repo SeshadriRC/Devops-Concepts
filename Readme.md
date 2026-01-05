@@ -4,6 +4,7 @@
 - [Devops-practice](https://github.com/SeshadriRC/Devops/tree/main)
 - [My-learnings](https://github.com/SeshadriRC/Devops-Learnings/tree/main/My-Learnings)
 - [Project-tech](https://github.com/SeshadriRC/Devops-Learnings/blob/main/Project.md)
+- [Accnt-details](https://github.com/SeshadriRC/Devops-Learnings/blob/main/Account.md)
 
 # Roadmap
 **Start date** - **Dec 29**
