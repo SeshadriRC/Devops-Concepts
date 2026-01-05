@@ -18,7 +18,7 @@
 - [Networking](https://github.com/SeshadriRC/Devops-Learnings/tree/main/My-Learnings/Networking)
 - [Fundamentals of Devops](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Fundamentals-of-devops.md)
 - [Improve SDLC](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/SDLC.md)
-- [Absolute Prerequisite for Learning DevOps](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Absolute-Prerequisite-for-Learning-DevOps.md)
+- [Absolute Prerequisite for Learning DevOps](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Absolute-Prerequisite-for-Learning-DevOps.md) - This video also taught about JIRA
 - [Day-2-Day-Tasks](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Day-2-Day-Tasks.md)
 
 
