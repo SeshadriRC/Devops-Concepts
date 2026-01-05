@@ -21,7 +21,7 @@
 - [Absolute Prerequisite for Learning DevOps](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Absolute-Prerequisite-for-Learning-DevOps.md) - This video also taught about [JIRA](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Jira.md)
 - [Day-2-Day-Tasks](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Day-2-Day-Tasks.md)
 - [Virtual-machines](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Virtual-machines.md)
-- [How-to-create-VM's](
+- [How-to-create-VM's](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/How-to-create-VM.md)
 
 
 
