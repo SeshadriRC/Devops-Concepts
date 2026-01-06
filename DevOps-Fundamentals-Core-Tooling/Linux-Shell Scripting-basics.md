@@ -40,3 +40,7 @@
 **User Processes** (14:05-14:25): These refer to the processes run by users on the system.
 
 **System Related Softwares** (14:05-14:32): Similar to Windows, Linux also includes various system-related software components.
+
+---
+
+**Shell scripting**
