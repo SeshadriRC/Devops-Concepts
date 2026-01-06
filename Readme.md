@@ -23,6 +23,7 @@
 - [Virtual-machines](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Virtual-machines.md)
 - [How-to-create-VM's](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/How-to-create-VM.md)
 - [AWS-CLI and CFT walkthrough](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/AWS-CLI.md)
+- [Linux and Shell Scripting](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Linux-Shell%20Scripting-basics.md)
 
 
 
