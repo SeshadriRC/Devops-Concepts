@@ -13,6 +13,10 @@ user dropdown --> security creds --> Access keys --> create access keys
 -  do ```aws configure```
 <img width="1103" height="385" alt="image" src="https://github.com/user-attachments/assets/164a411c-4f0a-4c0f-9277-94e8a4db4b11" />
 
-
+- using CFT also we can provision aws resources
 [CFT-github](https://github.com/aws-cloudformation/aws-cloudformation-templates)
 
+- using AWS API also we can do, so here we are using boto3. it is a module in python
+[boto3-doc](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+
+[EC2-provision](https://gist.github.com/mda590/679aba60ca03699d5b12a32314debdc0)
