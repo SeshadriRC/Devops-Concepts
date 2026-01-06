@@ -28,14 +28,15 @@
 
 **Kernel** (10:15-12:56): This is considered the heart of the Linux operating system. Its primary responsibility is to establish communication between the hardware (CPU, RAM, I/O) and the software. The kernel handles four main responsibilities:
 
-Device Management (12:30)
-Memory Management (12:32-12:35)
-Process Management (12:36-12:38)
-Handling System Calls (12:38-12:42)
-System Libraries (12:59-14:02): These libraries are responsible for performing tasks initiated by the user, which then go to the kernel. Each operating system might have slightly different supported system libraries, though the core concept remains the same (e.g., Libc is mentioned as an example).
+- Device Management (12:30)
+- Memory Management (12:32-12:35)
+- Process Management (12:36-12:38)
+- Handling System Calls (12:38-12:42)
+  
+**System Libraries** (12:59-14:02): These libraries are responsible for performing tasks initiated by the user, which then go to the kernel. Each operating system might have slightly different supported system libraries, though the core concept remains the same (e.g., Libc is mentioned as an example).
 
-Compilers (14:05-14:25): These are necessary for the operating system to compile code for applications like Java or Python.
+**Compilers** (14:05-14:25): These are necessary for the operating system to compile code for applications like Java or Python.
 
-User Processes (14:05-14:25): These refer to the processes run by users on the system.
+**User Processes** (14:05-14:25): These refer to the processes run by users on the system.
 
-System Related Softwares (14:05-14:32): Similar to Windows, Linux also includes various system-related software components.
+**System Related Softwares** (14:05-14:32): Similar to Windows, Linux also includes various system-related software components.
