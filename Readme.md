@@ -22,7 +22,7 @@
 - [Day-2-Day-Tasks](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Day-2-Day-Tasks.md)
 - [Virtual-machines](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Virtual-machines.md)
 - [How-to-create-VM's](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/How-to-create-VM.md)
-- [AWS-CLI]
+- [AWS-CLI and CFT walkthrough]
 
 
 
