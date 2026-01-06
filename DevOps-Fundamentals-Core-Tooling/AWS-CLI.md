@@ -12,3 +12,7 @@ user dropdown --> security creds --> Access keys --> create access keys
 
 -  do ```aws configure```
 <img width="1103" height="385" alt="image" src="https://github.com/user-attachments/assets/164a411c-4f0a-4c0f-9277-94e8a4db4b11" />
+
+
+[CFT-github](https://github.com/aws-cloudformation/aws-cloudformation-templates)
+
