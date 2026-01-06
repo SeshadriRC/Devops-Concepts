@@ -32,3 +32,4 @@
 
 - [NACL-and-SG](https://github.com/SeshadriRC/Devops-Learnings/blob/main/My-Learnings/Networking/Security-Group-and-NACL.md)
 - [VPC-handson](https://github.com/SeshadriRC/Devops-Learnings/blob/main/My-Learnings/Networking/AWS-VPC-handson.md)
+- [Git-restore-revert-reset](https://github.com/SeshadriRC/Devops-Learnings/blob/main/My-Learnings/Git/git-commands.md#reset-revert-restore)
