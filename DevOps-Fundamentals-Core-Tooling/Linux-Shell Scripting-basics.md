@@ -44,3 +44,20 @@
 ---
 
 **Shell scripting**
+
+Below commands covered
+
+```
+cd ../ ..
+ls 
+ls -lrth
+touch file.txt
+vi
+mkdir
+cat
+
+free -h   -> for memory
+nproc -> for cpu
+df -h -> for disk
+top -> it will show all 3 ( memory, cpu and disk)
+```
