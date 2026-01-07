@@ -24,7 +24,7 @@
 - [How-to-create-VM's](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/How-to-create-VM.md)
 - [AWS-CLI and CFT walkthrough](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/AWS-CLI.md)
 - [Linux and Shell Scripting](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Linux-Shell%20Scripting-basics.md)
-- [Shell-scripting-part1]()
+- [Shell-scripting-part1](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Shell-scripting-part-1.md)
 
 
 
