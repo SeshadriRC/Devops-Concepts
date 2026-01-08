@@ -53,3 +53,5 @@ chmod
 ch - change
 
 <img width="1172" height="559" alt="image" src="https://github.com/user-attachments/assets/8356af86-4492-48df-b6be-11b029b5b8b0" />
+<img width="1285" height="678" alt="image" src="https://github.com/user-attachments/assets/7efcf18e-6fe3-4a5a-b6f8-2e0d288f3aae" />
+
