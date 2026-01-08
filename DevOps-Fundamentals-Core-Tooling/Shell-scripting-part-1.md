@@ -54,4 +54,15 @@ ch - change
 
 <img width="1172" height="559" alt="image" src="https://github.com/user-attachments/assets/8356af86-4492-48df-b6be-11b029b5b8b0" />
 <img width="1285" height="678" alt="image" src="https://github.com/user-attachments/assets/7efcf18e-6fe3-4a5a-b6f8-2e0d288f3aae" />
+<img width="1541" height="808" alt="image" src="https://github.com/user-attachments/assets/d3cb1ed0-212d-4390-b746-29258204100a" />
+
+```
+history
+```
+
+<img width="1045" height="631" alt="image" src="https://github.com/user-attachments/assets/e5af9169-b2ff-4e76-a6df-92eef0946419" />
+
+<img width="1114" height="618" alt="image" src="https://github.com/user-attachments/assets/a97c6044-4ac6-4273-9d08-23bcd28e9481" />
+
+<img width="1178" height="630" alt="image" src="https://github.com/user-attachments/assets/1b4fe19e-def3-406c-8ae9-907e8375ec5a" />
 
