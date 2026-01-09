@@ -112,3 +112,131 @@ sudo find / -name pam          / means root directory of linux system
 <img width="712" height="412" alt="image" src="https://github.com/user-attachments/assets/48aac9ad-c542-414f-86af-d201c72a04e9" />
 
 - first it will execute the condition, it will perform the action, then it will go for incrementation and finally it will complete the for loop using done statement
+
+---
+
+**trap signals**
+
+The **`trap` command in Linux** is used to **catch signals or events and execute commands automatically** when they occur.
+
+Think of it as:
+👉 *“If this signal happens, run this code before exiting or continuing.”*
+
+---
+
+## Basic syntax
+
+```bash
+trap 'commands' SIGNAL
+```
+
+---
+
+## Common use cases
+
+### 1️⃣ Cleanup before script exits (most common)
+
+```bash
+#!/bin/bash
+
+trap 'echo "Cleaning up..."; rm -f /tmp/tempfile' EXIT
+
+echo "Script running..."
+touch /tmp/tempfile
+sleep 5
+```
+
+📌 When the script **finishes or exits**, cleanup runs automatically.
+
+---
+
+### 2️⃣ Handle Ctrl+C (SIGINT)
+
+```bash
+trap 'echo "Ctrl+C pressed. Exiting safely"; exit 1' SIGINT
+```
+
+If the user presses **Ctrl+C**, the script doesn’t stop abruptly.
+
+---
+
+### 3️⃣ Handle script termination (SIGTERM)
+
+```bash
+trap 'echo "Script terminated"; exit 1' SIGTERM
+```
+
+Used when system or process tries to kill the script.
+
+---
+
+### 4️⃣ Ignore a signal
+
+```bash
+trap '' SIGINT
+```
+
+👉 Ctrl+C will **do nothing**
+
+---
+
+### 5️⃣ Restore default signal behavior
+
+```bash
+trap - SIGINT
+```
+
+---
+
+## Common signals you should know
+
+| Signal    | Name        | When it happens      |
+| --------- | ----------- | -------------------- |
+| `SIGINT`  | Ctrl+C      | User interrupts      |
+| `SIGTERM` | Terminate   | Kill command         |
+| `EXIT`    | Script exit | Normal or error exit |
+| `SIGHUP`  | Hangup      | Terminal closed      |
+| `SIGKILL` | Kill        | ❌ Cannot be trapped  |
+
+⚠️ **SIGKILL (9) cannot be trapped**
+
+---
+
+## Real DevOps example (best practice)
+
+```bash
+#!/bin/bash
+set -e
+
+cleanup() {
+  echo "Releasing resources..."
+  rm -f /tmp/build.lock
+}
+
+trap cleanup EXIT SIGINT SIGTERM
+
+echo "Running deployment..."
+touch /tmp/build.lock
+sleep 10
+```
+
+✔ Ensures cleanup even if deployment fails or is interrupted
+
+---
+
+## Why `trap` is important in production
+
+* Prevents **orphaned temp files**
+* Avoids **stale lock files**
+* Makes scripts **safe and predictable**
+* Widely used in **CI/CD, Ansible scripts, cron jobs**
+
+---
+
+### One-line summary
+
+> `trap` lets a shell script **react to signals and exit events safely**
+
+If you want, I can give **interview questions**, **signal flow diagram**, or **hands-on practice** 🔥
+
+---
