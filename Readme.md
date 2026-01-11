@@ -26,6 +26,7 @@
 - [Linux and Shell Scripting](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Linux-Shell%20Scripting-basics.md)
 - [Shell-scripting-part1](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Shell-scripting-part-1.md)
 - [Shell-scripting-part2](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Shell-scripting-part2.md)
+- [AWS-Project-shell-script](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/AWS-project-shell-script.md)
 
 
 
