@@ -219,6 +219,12 @@ git cherry-pick <commit-id>
 
   - here we got merge conflict, we cleared it
 
+    - merge conflict occurred because the same file (calculator.sh) was changed in different branches simultaneously by multiple people (43:12-43:40).
+
+    Specifically, in the practical demonstration, a conflict arose because:
+
+       - One branch added a "percentage" functionality. Another branch added a "multiplication" functionality.
+
 <img width="559" height="453" alt="image" src="https://github.com/user-attachments/assets/cdffaf6b-310f-4bb4-9297-7c2a71a308e2" />
 
 <img width="959" height="655" alt="image" src="https://github.com/user-attachments/assets/6070a456-b268-45ac-a491-752393200deb" />
