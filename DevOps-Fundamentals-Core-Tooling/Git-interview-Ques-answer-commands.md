@@ -1,4 +1,4 @@
-<img width="997" height="623" alt="image" src="https://github.com/user-attachments/assets/f2c303bf-095e-4cd8-8068-1090b515a927" />**Topics covered**
+**Topics covered**
 
 - Initialize a git repo
 - what is .git file
@@ -213,6 +213,7 @@ git cherry-pick <commit-id>
 
 <img width="997" height="623" alt="image" src="https://github.com/user-attachments/assets/9a3e10e4-3225-4015-9406-80976b55a929" />
 <img width="991" height="650" alt="image" src="https://github.com/user-attachments/assets/660ce2ae-64b9-4100-858a-45db6b2603f6" />
+<img width="997" height="623" alt="image" src="https://github.com/user-attachments/assets/f2c303bf-095e-4cd8-8068-1090b515a927" />
 
 - Now merge with **rebaseExample** branch
 
