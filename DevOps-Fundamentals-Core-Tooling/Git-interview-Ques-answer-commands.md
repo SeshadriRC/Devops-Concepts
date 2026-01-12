@@ -224,6 +224,10 @@ git cherry-pick <commit-id>
     Specifically, in the practical demonstration, a conflict arose because:
 
        - One branch added a "percentage" functionality. Another branch added a "multiplication" functionality.
+         
+    - how to handle merge conflicts, stating that you typically need to "sit with the developers" to decide which changes to keep or how to integrate them, before adding and committing the fixed file (43:46-44:39).
+    - so after fixing the merge conflict , we need to add and commit again
+      
 
 <img width="559" height="453" alt="image" src="https://github.com/user-attachments/assets/cdffaf6b-310f-4bb4-9297-7c2a71a308e2" />
 
