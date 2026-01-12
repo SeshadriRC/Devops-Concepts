@@ -226,7 +226,7 @@ git cherry-pick <commit-id>
        - One branch added a "percentage" functionality. Another branch added a "multiplication" functionality.
          
     - how to handle merge conflicts, stating that you typically need to "sit with the developers" to decide which changes to keep or how to integrate them, before adding and committing the fixed file (43:46-44:39).
-    - so after fixing the merge conflict , we need to add and commit again
+    - so after fixing the merge conflict , we need to add and commit again or do ```git rebase --continue```
       
 
 <img width="559" height="453" alt="image" src="https://github.com/user-attachments/assets/cdffaf6b-310f-4bb4-9297-7c2a71a308e2" />
@@ -236,6 +236,10 @@ git cherry-pick <commit-id>
 <img width="936" height="475" alt="image" src="https://github.com/user-attachments/assets/9413705d-b838-4a2c-af36-62726c798603" />
 
 
+<img width="824" height="648" alt="image" src="https://github.com/user-attachments/assets/aff03e89-8b7d-4238-a661-bccef9992057" />
 
+- now finally we can see **mergeexample** is coming at the top and **rebasexample** coming in between
+
+<img width="1204" height="689" alt="image" src="https://github.com/user-attachments/assets/4736cfef-462d-4b5e-b9c1-e25a09c242e2" />
 
 
