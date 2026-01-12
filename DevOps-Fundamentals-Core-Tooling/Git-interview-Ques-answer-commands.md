@@ -4,6 +4,7 @@
 - what is .git file
 - git clone vs git fork difference
 - create a branch
+- difference between git merge and git rebase
 
 **commands**
 ```
@@ -235,6 +236,10 @@ git cherry-pick <commit-id>
 
 <img width="936" height="475" alt="image" src="https://github.com/user-attachments/assets/9413705d-b838-4a2c-af36-62726c798603" />
 
+(or)
+
+<img width="966" height="328" alt="image" src="https://github.com/user-attachments/assets/7288adb7-7c74-4fab-bd7c-afaaca9429fb" />
+
 
 <img width="824" height="648" alt="image" src="https://github.com/user-attachments/assets/aff03e89-8b7d-4238-a661-bccef9992057" />
 
@@ -242,4 +247,16 @@ git cherry-pick <commit-id>
 
 <img width="1204" height="689" alt="image" src="https://github.com/user-attachments/assets/4736cfef-462d-4b5e-b9c1-e25a09c242e2" />
 
+- Just to understand, Below is the steps we followed before
 
+<img width="787" height="310" alt="image" src="https://github.com/user-attachments/assets/db8f52bb-9a6b-40d6-90ec-69018060b2f3" />
+
+---
+**11. difference between git rebase and git merge**
+
+- merge and rebase will do the same thing, it will merge both the branches
+- if you want to maintain linear history then use ```git rebase```
+- if you don't bother about that then use ```git merge```. so with the merge we don't get linear commit history. so all the changes will come and get created at the top
+- so if you see below image deomonstrate merge and percentage modified same timing and after that only test commit done at master. But you can see merge is showing at top, not maintaining linear history, however rebase maintaining the history. note the timings
+
+  <img width="886" height="629" alt="image" src="https://github.com/user-attachments/assets/c3c5d717-279c-4363-9677-8b247a22bba6" />
