@@ -3,17 +3,29 @@
 - Initialize a git repo
 - what is .git file
 - git clone vs git fork difference
+- create a branch
 
 **commands**
 ```
 git init
 git status
 git diff
+
 git log
+git log <branch-name>
+
 git push
 git remote -v
 git remote add
 git clone using https or ssh method authentication
+
+git checkout -b <branch-name>
+git checkout <branch-name>
+
+git cherry-pick <commit-id>
+git merge
+git rebase
+
 ```
 
 **1.  what is git init and .git file**
@@ -112,5 +124,43 @@ In essence, cloning is about getting a local copy to work on, while forking is a
 
 ---
 
+**8. git branch**
+
+<img width="428" height="141" alt="image" src="https://github.com/user-attachments/assets/e8b2f43a-5b23-4d9a-9d50-a4ca66737ed1" />
 
 
+---
+
+**9. git cherry-pick**
+
+- below is the o/p of git log division
+
+<img width="852" height="461" alt="image" src="https://github.com/user-attachments/assets/f60bd33b-b220-42a4-bfa8-f567c8197ba6" />
+
+```
+git cherry-pick <commit-id>
+```
+
+- git cherry-pick is a command used to selectively apply specific commits from one branch to another
+- Cherry-picking is easy and convenient when you only need to bring over one or two specific commits from another branch
+- git cherry-pick is not practical for large numbers of commits (e.g., "fifty thousand or sixty thousand commits"), as it would be time-consuming and prone to conflicts to manually cherry-pick each one
+
+
+<img width="1177" height="622" alt="image" src="https://github.com/user-attachments/assets/ed32fdf4-95a3-4f6a-b7a5-002d8c989adc" />
+
+- below is the o/p of git log main
+
+<img width="1097" height="457" alt="image" src="https://github.com/user-attachments/assets/7935652a-5bc8-4edd-a796-a9c7793d7543" />
+
+
+---
+
+**10. git merge**
+
+- added new functionality call multiplication
+
+<img width="671" height="327" alt="image" src="https://github.com/user-attachments/assets/e4fd2c2e-e6b0-445e-841c-feeb04c2c3d1" />
+
+- after doing git add, git commit. use the ```git log``` and see the below output
+
+<img width="886" height="587" alt="image" src="https://github.com/user-attachments/assets/9447aadc-61ab-4f6d-b4ad-fab8134ff5c7" />
