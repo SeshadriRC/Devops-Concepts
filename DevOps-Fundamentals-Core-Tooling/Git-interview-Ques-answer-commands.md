@@ -218,7 +218,6 @@ git cherry-pick <commit-id>
 - Now merge with **rebaseExample** branch
 
   - here we got merge conflict, we cleared it
-<img width="645" height="434" alt="image" src="https://github.com/user-attachments/assets/2d401e6e-03b0-4db6-9d2c-37caf1e5e3e0" />
 
 <img width="559" height="453" alt="image" src="https://github.com/user-attachments/assets/cdffaf6b-310f-4bb4-9297-7c2a71a308e2" />
 
