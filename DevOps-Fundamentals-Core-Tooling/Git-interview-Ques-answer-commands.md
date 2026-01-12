@@ -212,12 +212,20 @@ git cherry-pick <commit-id>
 - Now check the git log
 
 <img width="997" height="623" alt="image" src="https://github.com/user-attachments/assets/9a3e10e4-3225-4015-9406-80976b55a929" />
+<img width="991" height="650" alt="image" src="https://github.com/user-attachments/assets/660ce2ae-64b9-4100-858a-45db6b2603f6" />
 
 - Now merge with **rebaseExample** branch
 
+  - here we got merge conflict, we cleared it
+<img width="645" height="434" alt="image" src="https://github.com/user-attachments/assets/2d401e6e-03b0-4db6-9d2c-37caf1e5e3e0" />
+
+<img width="559" height="453" alt="image" src="https://github.com/user-attachments/assets/cdffaf6b-310f-4bb4-9297-7c2a71a308e2" />
+
+<img width="959" height="655" alt="image" src="https://github.com/user-attachments/assets/6070a456-b268-45ac-a491-752393200deb" />
+
 <img width="936" height="475" alt="image" src="https://github.com/user-attachments/assets/9413705d-b838-4a2c-af36-62726c798603" />
 
-<img width="991" height="650" alt="image" src="https://github.com/user-attachments/assets/660ce2ae-64b9-4100-858a-45db6b2603f6" />
+
 
 
 
