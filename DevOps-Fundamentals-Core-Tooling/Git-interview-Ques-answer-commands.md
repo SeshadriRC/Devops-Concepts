@@ -1,4 +1,4 @@
-**Topics covered**
+<img width="997" height="623" alt="image" src="https://github.com/user-attachments/assets/f2c303bf-095e-4cd8-8068-1090b515a927" />**Topics covered**
 
 - Initialize a git repo
 - what is .git file
@@ -13,6 +13,7 @@ git diff
 
 git log
 git log <branch-name>
+git log --oneline       -> if you don't want to see lengthy log
 
 git push
 git remote -v
@@ -154,13 +155,69 @@ git cherry-pick <commit-id>
 
 
 ---
+**10. git merge and git rebase**
 
-**10. git merge**
+- Note: We need to see both git merge and git rebase same time, then only we can able to understand
 
-- added new functionality call multiplication
+**git merge**
+
+- added new functionality called multiplication
 
 <img width="671" height="327" alt="image" src="https://github.com/user-attachments/assets/e4fd2c2e-e6b0-445e-841c-feeb04c2c3d1" />
 
-- after doing git add, git commit. use the ```git log``` and see the below output
+- after doing git add, git commit. use the ```git log``` and see the below output. new commit is added called demonstrate merge
 
 <img width="886" height="587" alt="image" src="https://github.com/user-attachments/assets/9447aadc-61ab-4f6d-b4ad-fab8134ff5c7" />
+
+- ```git log mergeExample --oneline```
+
+<img width="617" height="166" alt="image" src="https://github.com/user-attachments/assets/82ca517c-a2e2-4c7b-a81a-3afdb88a9ec5" />
+
+
+
+**git rebase**
+
+- created another branch for rebase and added functionality called percentage
+
+<img width="544" height="322" alt="image" src="https://github.com/user-attachments/assets/849c4257-66c6-43ac-8794-d60639b06d0e" />
+
+- after doing git add, git commit , check git log
+
+<img width="906" height="566" alt="image" src="https://github.com/user-attachments/assets/ce6086fc-c25d-4ac6-a53d-af18368f954e" />
+
+```git log ---oneline```
+<img width="652" height="188" alt="image" src="https://github.com/user-attachments/assets/a6df40ed-1cc7-46f4-885c-f5329e84590a" />
+
+
+**Now go to main**
+
+- here also change something
+
+<img width="466" height="300" alt="image" src="https://github.com/user-attachments/assets/05e94473-5a34-4138-a29c-3dd5fa077fc6" />
+
+- then do git add, git commit
+
+- Now merge with **mergeExample** branch
+
+<img width="514" height="102" alt="image" src="https://github.com/user-attachments/assets/a114ddb4-2007-4e0a-a3a4-169d7db69ee5" />
+
+- we supposed to commit here by giving ```wq!``` but somehow abi terminal not worked. so commit is unsuccessful
+
+<img width="880" height="220" alt="image" src="https://github.com/user-attachments/assets/25feed69-61e3-40dd-8912-1cf46a04414e" />
+
+<img width="1104" height="517" alt="image" src="https://github.com/user-attachments/assets/cc107f41-274a-4870-805a-f0fdb721c830" />
+
+<img width="706" height="249" alt="image" src="https://github.com/user-attachments/assets/fd97871f-6736-4adb-806e-c0cf6d65db1b" />
+
+- Now check the git log
+
+<img width="997" height="623" alt="image" src="https://github.com/user-attachments/assets/9a3e10e4-3225-4015-9406-80976b55a929" />
+
+- Now merge with **rebaseExample** branch
+
+<img width="936" height="475" alt="image" src="https://github.com/user-attachments/assets/9413705d-b838-4a2c-af36-62726c798603" />
+
+<img width="991" height="650" alt="image" src="https://github.com/user-attachments/assets/660ce2ae-64b9-4100-858a-45db6b2603f6" />
+
+
+
