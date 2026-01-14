@@ -48,7 +48,7 @@
 Below commands covered
 
 ```
-cd ../ ..
+cd ../../
 ls 
 ls -lrth
 touch file.txt
