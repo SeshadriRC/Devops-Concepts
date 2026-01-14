@@ -30,7 +30,7 @@
 - [Git-Github](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Git-and-github.md)
 - [Git-branching-Strategy](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Git-Branching-Strategy.md)
 - [Git-interview-Ques-answer-commands](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Git-interview-Ques-answer-commands.md)
-- [Deploy and expose your first app to AWS]()
+- [Deploy and expose your first app to AWS](https://github.com/SeshadriRC/Devops-Concepts/blob/main/DevOps-Fundamentals-Core-Tooling/Deploy-and-expose-your-First-App-to-AWS.md)
 
 
 
