@@ -16,7 +16,7 @@
 
 **CloudWatch:** An essential monitoring and observability service that tracks all actions within AWS, allowing for alerts and automated responses to events (12:56).
 
-**Lambda:** A serverless compute service used for executing short, event-driven actions, often in conjunction with CloudWatch, for tasks like encrypting unencrypted volumes (15:38). remember about if in case user created unencrypted volume then automatically it will get deleted and lambda will create encrypted volume
+**Lambda:** A serverless compute service used for executing short, event-driven actions, often in conjunction with CloudWatch, for tasks like encrypting unencrypted volumes (15:38). remember about if in case user created unencrypted volume then automatically it will get deleted and lambda will create encrypted volume. If RDS is unused for long time then RDS will get deleted automatically by Lambda
 
 **AWS Cloud Build Services (Code Pipeline, Code Build, Code Deploy):** These services enable Continuous Integration (CI) and Continuous Delivery (CD) on AWS.
 
