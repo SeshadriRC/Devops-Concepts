@@ -27,7 +27,7 @@ aws iam list-users
 
 ```
 
-**jq**
+## jq
 
 - JQ is a JSON parser used in Linux to read and extract specific information from JSON data (24:59). In the context of the video, it's used to simplify large outputs from AWS CLI commands by only showing the relevant details, such as an EC2 instance ID, rather than the entire JSON response (24:30-25:47).
 - It's highlighted as a tool useful for DevOps engineers who often deal with JSON and YAML formats (24:54-24:58).
