@@ -96,7 +96,7 @@ sudo find / -name pam          / means root directory of linux system
 
 ---
 
-**if else**
+## if else
 
 - **fi** means we are closing the **if** condition
 
@@ -105,7 +105,7 @@ sudo find / -name pam          / means root directory of linux system
 
 ---
 
-**for loop**
+## for loop
 
 - A for loop (1:06:00) is a control flow statement in shell scripting (and many other programming languages) that allows you to execute a block of commands repeatedly for each item in a list or sequence. It's used to automate repetitive tasks.
 
