@@ -65,7 +65,7 @@ ps -ef | grep amazon | awk -F" " '{print $2}'
 
 ---
 
-**curl**
+## Curl
 
 - retrieves the information from internet
 
@@ -76,7 +76,7 @@ curl -X GET googl.com
 
 ---
 
-**wget**
+## wget
 
 <img width="1161" height="653" alt="image" src="https://github.com/user-attachments/assets/393b1848-1cc1-4c47-bc8f-6b015e5c8f8d" />
 
