@@ -44,6 +44,7 @@ Simplicity and Language: Ansible uses YAML manifest files (23:07) for writing pl
 
 Custom Modules and Community Contribution: Ansible is written in Python (27:21), allowing users to write their own custom modules for specific applications and share them via Ansible Galaxy (28:36), fostering community contribution (29:00).
 
+---
 Disadvantages of Ansible (24:49)
 
 Windows Support: While improved, Windows support can still be slightly difficult compared to Linux (25:11).
