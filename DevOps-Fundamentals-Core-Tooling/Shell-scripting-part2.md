@@ -116,7 +116,7 @@ sudo find / -name pam          / means root directory of linux system
 ---
 
 ************************************************************************************************************************
-**trap signals**
+## trap-signals
 
 The **`trap` command in Linux** is used to **catch signals or events and execute commands automatically** when they occur.
 
