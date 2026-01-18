@@ -51,11 +51,11 @@ ps -ef | grep amazon | awk -F" " '{print $2}'
 
 ---
 
-**set -e**
+## set -e
 
 - This command ensures that your script will exit immediately if any command fails or exits with a non-zero status (which typically indicates an error) (33:03-33:08).
 
-**set -o pipefail**
+## set -o pipefail
 
 - This command is used in conjunction with set -e to handle errors within pipelines (commands connected by |). If any command in a pipeline fails (exits with a non-zero status), set -o pipefail ensures that the entire pipeline's exit status is non-zero, causing the script to exit if set -e is also active
   
