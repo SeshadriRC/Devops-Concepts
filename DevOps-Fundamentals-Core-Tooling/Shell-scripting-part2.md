@@ -38,7 +38,7 @@ The video explains that in any system, there are different channels or log flows
 
 ---
 
-**awk**
+## awk
 
 - The awk command is a powerful pattern scanning and processing language used in shell scripting to filter and manipulate data from the output of other commands or files (29:00). Unlike grep, which provides entire lines or statements, awk can extract specific columns or fields from the output (27:58).
 
